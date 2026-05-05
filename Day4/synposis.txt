@@ -1,0 +1,14 @@
+ 
+setTimeout is used to delay the response for 2 seconds
+ After 2 seconds, resolve() sends the message - Data received
+
+ then() is used to get the successful result from the Promise
+
+ If there is any error, we can handle it using .catch():
+
+
+setInterval is used for repeated execution:
+
+
+
+
