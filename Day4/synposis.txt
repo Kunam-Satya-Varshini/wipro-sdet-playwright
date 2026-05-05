@@ -4,10 +4,10 @@ setTimeout is used to delay the response for 2 seconds
 
  then() is used to get the successful result from the Promise
 
- If there is any error, we can handle it using .catch():
+ If there is any error, we can handle it using .catch()
 
 
-setInterval is used for repeated execution:
+setInterval is used for repeated execution
 
 
 
