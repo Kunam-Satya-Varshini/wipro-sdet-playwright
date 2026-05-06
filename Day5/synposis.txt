@@ -1,0 +1,19 @@
+// await 
+await is used in asynchronous functions 
+if we use await the cursor will be blocked at that statemnnt until that task is done 
+
+// OOPS CONCEPTS 
+1.Constructor
+used to intialize the class
+
+2.Inheritance 
+child class can inherit properties of parent class
+
+3.Polymorphism
+Same method having different properties 
+
+4.Encapsulation
+combining data and methods into a single class
+
+5.Abstraction
+hiding unneccesary details and showing only essential information
