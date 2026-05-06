@@ -1,11 +1,14 @@
+<<<<<<< HEAD
  # promises  
+=======
+# Promises 
+>>>>>>> b6210a2fcf36a1b84f05e73f2244d20f9ca4d24c
 setTimeout is used to delay the response for 2 seconds
- After 2 seconds, resolve() sends the message - Data received
+After 2 seconds, resolve() sends the message - Data received
 
- then() is used to get the successful result from the Promise
+then() is used to get the successful result from the Promise
 
- If there is any error, we can handle it using .catch()
-
+<<<<<<< HEAD
 setInterval is used for repeated execution
 
 #API 
@@ -38,6 +41,34 @@ setInterval is used for repeated execution
 
 
 10. Countries: Fetch country data, select countries with population above 100 million, and display their names.
+=======
+If there is any error, we can handle it using .catch()
+
+setInterval is used for repeated execution
+
+# API 
+
+1. Cat Facts: Fetch cat facts, filter short ones, and display only the fact text.
+
+2. Universities: Fetch universities in India, select those with “Technology” in the name, and show their names.
+
+3. Random Users: Fetch users, keep only female users, and display their first names.
+
+4. Posts: Fetch posts, select posts created by userId 1, and show their titles.
+
+5. Crypto Coins: Fetch cryptocurrency data, pick coins with price above 1000, and display their names.
+
+6. Pokémon: Fetch Pokémon list, choose names starting with “b”, and display those names.
+
+7. Dog Facts: Fetch dog facts and display the fact descriptions.
+
+8. Astronauts: Fetch astronaut data and display their names.
+
+9. Quotes: Fetch quotes, filter shorter quotes, and display the quote text.
+
+10. Countries: Fetch country data, select countries with population above 100 million, and display their names.
+
+>>>>>>> b6210a2fcf36a1b84f05e73f2244d20f9ca4d24c
 
 
 

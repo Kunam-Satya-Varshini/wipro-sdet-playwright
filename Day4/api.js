@@ -1,5 +1,5 @@
 
-fetch("https://catfact.ninja/facts")
+ fetch("https://catfact.ninja/facts")
    .then(res => res.json())
    .then(result => result.data)                
    .then(facts => facts.filter(f => f.length < 50)) 
