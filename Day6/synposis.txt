@@ -1,0 +1,23 @@
+##  1 – Flight Booking Data Cleaner
+
+In this program we are cleaning raw flight booking data and converting it into  objects.
+Only flights priced between $100 and $500 are kept in the final list.
+And finally sorted the results  from cheap to high price and returned as a JSON string.
+
+##  2 – E-Commerce Discount Applicator
+
+In this program we are appling discounts to eligible products in a shopping cart.
+Electroni items which are costing more than $200 will receive a 10% discount.
+Finally, we show the total savings and return the updated cart after a short delay.
+
+##  3 – Movie Stream Analytics
+
+In this program we will process a  raw movie streaming data into readable objects.
+Only Action and Sci-Fi movies with more than 5000 views are selected.
+The final movie list is sorted by highest views and returned as a JSON string.
+
+##  4 – Automated Payroll Processor
+
+In this program we will calculate employee salaries after tax deductions.
+Employees with higher salaries pay 20% tax,  others pay 10%.
+ display the total payroll payout  the data after a delay.
