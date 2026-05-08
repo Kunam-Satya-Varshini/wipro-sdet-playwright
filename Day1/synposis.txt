@@ -1,0 +1,14 @@
+// 1.
+This program is a basic HTML webpage with a simple JavaScript function to handle user input.
+ It contains a text input box where the user can enter their name and a button to submit it.
+When the button is clicked, the Submit() function is triggered, which reads the value from the input field.
+The entered name is displayed in the console using console.log(). After that, the input field is cleared automatically. T
+his demonstrates basic DOM manipulation and event handling in JavaScript.
+
+
+//2.
+This program demonstrates basic JavaScript concepts including variables, data types, and operations. 
+It performs string operations like length, uppercase, lowercase, and substring, along with mathematical and logical operations. 
+The program explains dynamic typing by changing variable types and includes function usage for addition.
+ Arrays, loops, conditional statements, and the typeof operator are also used to work with and identify different data types.
+
