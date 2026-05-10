@@ -1,5 +1,5 @@
 // 5. Create a student grade calculator using arrow functions. 
-const getGrade(marks) =>{
+const getGrade = (marks) =>{
     if (marks >=90){
         return"A";}
          else if (marks >= 75) {
