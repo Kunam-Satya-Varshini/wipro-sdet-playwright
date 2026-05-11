@@ -1,2 +1,2 @@
 // Practiced various programs .....
-// Revised all JavaScript topics
+// Revised all JavaScript topics 
