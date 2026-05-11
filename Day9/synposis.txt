@@ -11,3 +11,15 @@ Destructuring extracts values from arrays/objects into variables
 
 //4.rest operator
 rest operator (...) collects remaining elements/properties into a single array or object.
+
+                                  TYPESCRIPT
+//1.Interface defines the structure of an object (what properties and types it should have).
+It helps ensure objects follow a specific format.
+
+//2.Enum 
+Enum is used to define a set of named constant values.
+It makes code more readable instead of using numbers or strings directly.
+
+//3.Generics 
+Generics allow you to write reusable code that works with different data types.
+You don’t fix the type beforehand — it’s decided when you use it.
