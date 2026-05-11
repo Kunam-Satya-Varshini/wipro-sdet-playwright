@@ -1,0 +1,13 @@
+//1.default parameters
+if we dont pass any value to a parameter generally it shows undefined 
+but if we assign a value then that value will returned even when we dont 
+pass a value thats called as a default parameters
+
+//2.spread operator 
+copies values from one array into a new array
+
+//3.destructing 
+Destructuring extracts values from arrays/objects into variables
+
+//4.rest operator
+rest operator (...) collects remaining elements/properties into a single array or object.
