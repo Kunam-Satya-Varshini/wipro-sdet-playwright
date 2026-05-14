@@ -6,10 +6,10 @@ while (guess !== secret) {
     guess = Number(prompt("Guess a number (1-10):"));
 
     if (guess > secret) {
-        console.log("Too high!");
+        console.log(" higher");
     } else if (guess < secret) {
-        console.log("Too low!");
+        console.log(" lower");
     } else {
-        console.log("Correct! 🎉");
+        console.log("Correct! ");
     }
 }
