@@ -1,0 +1,16 @@
+`test` defines a Playwright test case, 
+
+ `await page.goto()` navigates to the given URL before performing actions.
+
+ `getByRole()` locates elements based on  roles (like links/buttons)
+
+ `.nth(1)` selects the second matching element when multiple elements are found.
+
+ `expect()` is used for assertions
+
+ `locator()`  is a  way to find elements 
+
+Regex `/Request/` in `getByRole()` allows  text matching.
+
+ `await consultBtn.click()` performs the action and waits for it to complete.
+

@@ -1,0 +1,1 @@
+Practiced various programs on all Typescript topics

@@ -1,0 +1,7 @@
+keyof → gets all property names (keys) of a type as a union
+
+typeof → gets the type of a variable or value
+
+Partial<T> → makes all properties in a type optional
+
+Omit<T, K> → creates a type by removing specified keys from another type
