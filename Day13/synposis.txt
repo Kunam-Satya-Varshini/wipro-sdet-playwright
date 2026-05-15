@@ -1,0 +1,5 @@
+We created a basic login page where a user enters username and password and clicks login.
+The frontend sends this data to a backend server using a request.
+The backend checks if the credentials are correct or wrong .
+Then we used Playwright to automate this process by filling inputs, clicking login, and reading the result.
+we built and tested a complete login flow .
