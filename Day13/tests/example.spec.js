@@ -1,6 +1,5 @@
 // @ts-check
 import { test, expect } from '@playwright/test';
-import path from 'path';
 
 const loginData = [
   {
@@ -19,7 +18,7 @@ const loginData = [
     username: "admin123", 
     password: "admin12345", 
     expected: "Invalid credentials"
-  }
+  },
 ]
 loginData.forEach(async data => {
   test(`Checking Login form with ${data.username}, ${data.password}`, async ({ page }) => {
@@ -33,10 +32,7 @@ loginData.forEach(async data => {
     await username.fill(data.username);
     await password.fill(data.password);
     await btn.click();
-
-    // await btn.screenshot({ type: 'png', path: 'btn.png'  });
-    // await page.screenshot({ fullPage: true, path: 'full-page.png' })
     
-    await expect(msg).toHaveText("wrong test");
+    await expect(msg).toHaveText(data.expected);
   });
 })
