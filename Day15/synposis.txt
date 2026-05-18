@@ -1,0 +1,11 @@
+test.skip() → Don’t run this test for now.
+
+test.fail() → This test is expected to fail due to a known issue.
+
+test.fixme() → This test is broken, skip it and fix later.
+
+test.slow() → Give this test more time to finish.
+
+test.setTimeout() → Set a time limit for how long this test can run.
+
+test.step() → Break the test into clear, named steps for better readability.
