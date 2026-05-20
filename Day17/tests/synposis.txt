@@ -1,0 +1,12 @@
+1.Authentication Management
+
+This code demonstrates authentication state management in Playwright by logging into a website once, 
+saving the session data into a JSON file, 
+and reusing that saved login state in another test to access  pages without logging in again and again.
+
+2.Param-assertions
+
+This code contains
+parameterized testing using multiple datasets, 
+soft assertions that continue execution after failure, 
+and polling assertions that repeatedly check a condition until it becomes true.
